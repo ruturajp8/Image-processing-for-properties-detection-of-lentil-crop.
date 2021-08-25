@@ -1,0 +1,1 @@
+# Image-processing-for-properties-detection-of-lentil-crop.
